@@ -343,11 +343,14 @@ body {
 
     footer .linha1{
         flex-direction: column;
-        justify-content: space-around;
-        align-items: center;
     }
 
-    footer nav{
-        height: 100%;
+    footer .linha2{
+        height: 265px;
+        
     }
+
+    footer .dados{
+        width: 95%;
+        margin-bottom: 20px;
     }
